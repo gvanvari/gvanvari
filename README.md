@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gvanvari
-- 👀 I’m interested in application security. Learning application security basics on <img src="https://tryhackme-badges.s3.amazonaws.com/dahi.koki.png" alt="TryHackMe">
+- Security+ Certified
+- 👀 I’m interested in application security. Learning application and Api security basics
 - 🌱 I’m currently learning how to build websites using Gatsby
 <!--
 - 💞️ I’m looking to collaborate on ...
