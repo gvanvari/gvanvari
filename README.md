@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvanvari
 - Security+ Certified
 - 👀 I’m interested in application security. Learning application and Api security basics
-- 🌱 I’m currently learning how to build websites using Gatsby
+- 🌱 My [Portfolio](https://github.com/gvanvari/gvanvari.github.io) 
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
