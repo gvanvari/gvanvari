@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gvanvari
-- Security+ Certified
-- 👀 I’m interested in application security. Learning application and Api security basics
 - 🌱 My [Portfolio](https://gvanvari.github.io/) 
 <!--
 - 💞️ I’m looking to collaborate on ...
